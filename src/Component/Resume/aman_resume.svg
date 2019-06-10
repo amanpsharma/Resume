@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2382" height="3023" viewBox="0 0 2382 3023">
-  <g id="Group_3" data-name="Group 3" transform="translate(0 -93)">
+<svg xmlns="http://www.w3.org/2000/svg" width="2382" height="4372" viewBox="0 0 2382 4372">
+  <g id="Group_5" data-name="Group 5" transform="translate(0 -93)">
     <rect id="Rectangle_1" data-name="Rectangle 1" width="955" height="116" transform="translate(0 437)" fill="#fd0"/>
     <text id="AMAN_SHARMA" data-name="AMAN
 SHARMA" transform="translate(117 254)" fill="#707070" font-size="149" font-family="SegoeUI, Segoe UI" letter-spacing="0.04em"><tspan x="0" y="0">AMAN</tspan><tspan font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="146">SHARMA</tspan></tspan></text>
@@ -8,8 +8,6 @@ SHARMA" transform="translate(117 254)" fill="#707070" font-size="149" font-famil
       <line id="Line_1" data-name="Line 1" x2="962" transform="translate(117.5 673.5)" fill="none" stroke="#707070" stroke-width="15"/>
       <line id="Line_2" data-name="Line 2" x2="1291" transform="translate(1079.5 673.5)" fill="none" stroke="#707070" stroke-width="5"/>
     </g>
-    <line id="Line_1-2" data-name="Line 1" x2="962" transform="translate(117.5 2595.5)" fill="none" stroke="#fd0" stroke-width="15"/>
-    <line id="Line_2-2" data-name="Line 2" x2="1291" transform="translate(1079.5 2595.5)" fill="none" stroke="#707070" stroke-width="5"/>
     <text id="To_work_in_a_creative_and_challenging_environment_using_cutting_edge_technologies_where_I_could_constantly_learn_and_successfully_deliver_solutions_to_problems." data-name="To work in a creative and challenging environment using cutting
        edge technologies where I could constantly learn and 
                successfully deliver solutions to problems." transform="translate(118 800)" fill="#2d2a2b" font-size="70" font-family="SegoeUI, Segoe UI" letter-spacing="0.04em"><tspan x="0" y="0">To work in a creative and challenging environment using cutting</tspan><tspan x="0" y="94" xml:space="preserve">       edge technologies where I could constantly learn and </tspan><tspan x="0" y="188" xml:space="preserve">               successfully deliver solutions to problems.</tspan></text>
@@ -21,7 +19,6 @@ SHARMA" transform="translate(117 254)" fill="#707070" font-size="149" font-famil
     <line id="Line_3-2" data-name="Line 3" x2="491" transform="translate(1329.5 2212.5)" fill="none" stroke="#fd0" stroke-width="15"/>
     <line id="Line_4-2" data-name="Line 4" x2="550" transform="translate(1820.5 2212.5)" fill="none" stroke="#707070" stroke-width="5"/>
     <text id="LANGUAGES" transform="translate(1330 2172)" fill="#2d2a2b" font-size="70" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">LANGUAGES</tspan></text>
-    <text id="CONTACT_ME" data-name="CONTACT ME" transform="translate(119 2538)" fill="#2d2a2b" font-size="70" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">CONTACT ME</tspan></text>
     <text id="English_Hindi_Gujarati_" data-name="English              Hindi            Gujarati   " transform="translate(1856 2325)" fill="#644e52" font-size="55" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.03em"><tspan x="-525.617" y="0" xml:space="preserve">English              Hindi            Gujarati   </tspan></text>
     <line id="Line_3-3" data-name="Line 3" x2="491" transform="translate(118.5 1776.5)" fill="none" stroke="#fd0" stroke-width="15"/>
     <line id="Line_4-3" data-name="Line 4" x2="584" transform="translate(609.5 1776.5)" fill="none" stroke="#707070" stroke-width="5"/>
@@ -35,9 +32,10 @@ SQL" transform="translate(119 1879)" fill="#644e52" font-size="55" font-family="
     <line id="Line_3-4" data-name="Line 3" x2="423" transform="translate(1328.793 1247.5)" fill="none" stroke="#fd0" stroke-width="15"/>
     <line id="Line_4-4" data-name="Line 4" x2="620.171" transform="translate(1750.5 1247.5)" fill="none" stroke="#707070" stroke-width="5"/>
     <text id="EDUCATION" transform="translate(1329.244 1207)" fill="#2d2a2b" font-size="70" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">EDUCATION</tspan></text>
-    <text id="Company_Name_:_Manipal_Hospital_Support_Engineer_2018-2019_" data-name="Company Name :
-Manipal Hospital (Support Engineer)
-(2018-2019)" transform="translate(117 1366)" fill="#644e52" font-size="60" font-family="SegoeUI-Bold, Segoe UI" letter-spacing="0.03em" font-weight="700"><tspan x="0" y="0">Company Name</tspan><tspan y="0" xml:space="preserve" font-family="SegoeUI, Segoe UI" font-weight="400"> :</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="80">Manipal Hospital (Engineer)</tspan><tspan x="0" y="160">(2018-2019)</tspan></tspan></text>
+    <text id="Company_Name_:_Manipal_Hospital_Trainee_Engineer_ConcertCare_India_Pvt_Ltd_2018-2019_" data-name="Company Name :
+Manipal Hospital (Trainee Engineer)
+(ConcertCare India Pvt Ltd)
+(2018-2019)" transform="translate(117 1366)" fill="#644e52" font-size="60" font-family="SegoeUI-Bold, Segoe UI" letter-spacing="0.03em" font-weight="700"><tspan x="0" y="0">Company Name</tspan><tspan y="0" xml:space="preserve" font-family="SegoeUI, Segoe UI" font-weight="400"> :</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="80">Manipal Hospital (Trainee Engineer)</tspan></tspan><tspan font-size="50" font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="149">(ConcertCare India Pvt Ltd)</tspan></tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="227">(2018-2019)</tspan></tspan></text>
     <text id="University_Name_:_Gujarat_Technological_University_Master_of_Computer_Application_2014-2017_" data-name="University Name :
 Gujarat Technological University
 Master of Computer Application 
@@ -48,12 +46,30 @@ Bachelor of Computer Application
 (2010-2013)" transform="translate(1363 1740)" fill="#644e52" font-size="60" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">University Name :</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="80">Veer Narmad South Gujarat University</tspan><tspan x="0" y="160">Bachelor of Computer Application </tspan><tspan x="0" y="240">(2010-2013)</tspan></tspan></text>
     <line id="Line_5" data-name="Line 5" y2="73" transform="translate(1613.5 2266.5)" fill="none" stroke="#000" stroke-width="5"/>
     <line id="Line_6" data-name="Line 6" y2="73" transform="translate(2014.5 2266.5)" fill="none" stroke="#000" stroke-width="5"/>
-    <text id="EMAIL_:_amanraj_78_yahoo.in" data-name="EMAIL :
-amanraj_78@yahoo.in" transform="translate(117 2736)" fill="#644e52" font-size="55" font-family="SegoeUI-Bold, Segoe UI" letter-spacing="0.1em" font-weight="700"><tspan x="0" y="0">EMAIL :</tspan><tspan font-size="60" font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="70">amanraj_78@yahoo.in</tspan></tspan></text>
-    <text id="Address_:_Jayanagar" data-name="Address :
-Jayanagar" transform="translate(1330 2756)" fill="#644e52" font-size="55" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.1em"><tspan x="0" y="0">Address :</tspan><tspan x="0" y="70">Jayanagar</tspan></text>
-    <text id="Mobile_No_:_70160-56459_94096-10766" data-name="Mobile No :
+    <g id="Group_3" data-name="Group 3" transform="translate(0 -98)">
+      <line id="Line_1-2" data-name="Line 1" x2="962" transform="translate(119.5 4038.5)" fill="none" stroke="#fd0" stroke-width="15"/>
+      <line id="Line_2-2" data-name="Line 2" x2="1291" transform="translate(1081.5 4038.5)" fill="none" stroke="#707070" stroke-width="5"/>
+      <text id="CONTACT_ME" data-name="CONTACT ME" transform="translate(121 3981)" fill="#2d2a2b" font-size="70" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">CONTACT ME</tspan></text>
+      <text id="EMAIL_:_amanraj_78_yahoo.in" data-name="EMAIL :
+amanraj_78@yahoo.in" transform="translate(119 4179)" fill="#644e52" font-size="55" font-family="SegoeUI-Bold, Segoe UI" letter-spacing="0.1em" font-weight="700"><tspan x="0" y="0">EMAIL :</tspan><tspan font-size="60" font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="70">amanraj_78@yahoo.in</tspan></tspan></text>
+      <text id="Current_Address_:_Gold_s_Gym_67_6th_B_Main_Road_15_Th_Cross_Jp_Nagar_3rd_Phase_Bengaluru_Karnataka_India" data-name="Current Address :
+Gold&apos;s Gym, 67, 6th &apos;B&apos; 
+Main Road, 15 Th Cross, 
+Jp Nagar 3rd Phase, 
+Bengaluru, Karnataka, 
+India" transform="translate(1655 4199)" fill="#644e52" font-size="55" font-family="SegoeUI-Bold, Segoe UI" letter-spacing="0.1em" font-weight="700"><tspan x="0" y="0">Current Address :</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="70">Gold&apos;s Gym, 67, 6th &apos;B&apos; </tspan><tspan x="0" y="140">Main Road, 15 Th Cross, </tspan><tspan x="0" y="210">Jp Nagar 3rd Phase, </tspan><tspan x="0" y="280">Bengaluru, Karnataka, </tspan><tspan x="0" y="350">India</tspan></tspan></text>
+      <text id="Mobile_No_:_70160-56459_94096-10766" data-name="Mobile No :
 70160-56459
-94096-10766" transform="translate(119 2962)" fill="#644e52" font-size="55" font-family="SegoeUI-Bold, Segoe UI" letter-spacing="0.1em" font-weight="700"><tspan x="0" y="0">Mobile No :</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="70">70160-56459</tspan><tspan x="0" y="140">94096-10766</tspan></tspan></text>
+94096-10766" transform="translate(121 4405)" fill="#644e52" font-size="55" font-family="SegoeUI-Bold, Segoe UI" letter-spacing="0.1em" font-weight="700"><tspan x="0" y="0">Mobile No :</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="70">70160-56459</tspan><tspan x="0" y="140">94096-10766</tspan></tspan></text>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(0 -44)">
+      <line id="Line_7" data-name="Line 7" x2="962" transform="translate(119.5 2689.5)" fill="none" stroke="#fd0" stroke-width="15"/>
+      <line id="Line_8" data-name="Line 8" x2="1291" transform="translate(1081.5 2689.5)" fill="none" stroke="#707070" stroke-width="5"/>
+      <text id="ACHIEVEMENTS" transform="translate(119 2632)" fill="#2d2a2b" font-size="70" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.04em"><tspan x="0" y="0">ACHIEVEMENTS</tspan></text>
+      <text id="_1._.Participated_in_Inter_College_Cyber_Hunt_Competition_on_dated_22nd_January_2012_at_Rofel_Shri_G.M.Bilakhia_College_of_Applied_Science_Vapi._2._.Participated_in_Inter_College_Logic_Building_on_dated_22nd_January_2012_at_Rofel_Shri_G.M.Bi" data-name="1. .Participated in Inter College “Cyber Hunt Competition” on dated 22nd January 2012, at
+     Rofel Shri G.M.Bilakhia College of Applied Science Vapi.
+2. .Participated in Inter College “Logic Building” on dated 22nd January 2012, at
+     Rofel Shri G.M.Bi" transform="translate(121 2847)" fill="#535352" font-size="49" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.85"><tspan x="0" y="0">1. .Participated in Inter College “Cyber Hunt Competition” on dated 22nd January 2012, at</tspan><tspan x="0" y="90" xml:space="preserve">     Rofel Shri G.M.Bilakhia College of Applied Science Vapi.</tspan><tspan x="0" y="180">2. .Participated in Inter College “Logic Building” on dated 22nd January 2012, at</tspan><tspan x="0" y="270" xml:space="preserve">     Rofel Shri G.M.Bilakhia College of Applied Science Vapi.</tspan><tspan x="0" y="360">3. .Participated in Inter College “IT Intelligence” on dated 30th December 2011, at</tspan><tspan x="0" y="450" xml:space="preserve">     Naran Lala Colleges Navasari.</tspan><tspan x="0" y="540">4. .Participated in Inter College “Basic of CEH” on dated 10th January 2010, at</tspan><tspan x="0" y="630" xml:space="preserve">     Rofel Shri G.M.Bilakhia College of Applied Science Vapi.</tspan><tspan x="0" y="720">5. .Participate in various activities like Seminars(Oracle) etc.</tspan><tspan x="0" y="810">6. .Participate in Anchoring in College Annual Function .</tspan><tspan x="0" y="900"></tspan></text>
+    </g>
   </g>
 </svg>
